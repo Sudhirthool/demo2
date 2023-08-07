@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Aug 07 20:05:58 IST 2023","Mon Aug 07 20:05:58 IST 2023","0","testCases","test_LoginPage","Test_CredKart_Login","","","test_CredKart_Login_001",""
+"broken","Mon Aug 07 20:05:56 IST 2023","Mon Aug 07 20:05:56 IST 2023","0","testCases","test_CheckOutPage","Test_Checkout_Page","","","test_checkout_page",""
